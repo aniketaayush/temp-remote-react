@@ -1,0 +1,58 @@
+.temp-main-cont {
+  width: 25rem;
+  height: 33rem;
+  background-color: #003865;
+  border-radius: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.display-cont {
+  height: 18rem;
+  width: 18rem;
+  border-radius: 50%;
+  margin: 2rem;
+  background-color: #3ccf4e;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.temp-display {
+  font-size: 6rem;
+  color: white;
+  font-weight: 400;
+  font-family: "Roboto", sans-serif;
+}
+
+.temp-handler {
+  width: 6rem;
+  height: 6rem;
+  border-radius: 50%;
+  background-color: #ef5b0c;
+  margin: 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: none;
+}
+
+.button-handler {
+  width: 90%;
+  height: 90%;
+  padding: 10px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.red {
+  background-color: red;
+}
+
+.button-display {
+    font-size: 3rem;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
