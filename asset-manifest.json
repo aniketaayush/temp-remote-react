@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/temp-remote-react/static/css/main.f5c04ee6.css",
+    "main.js": "/temp-remote-react/static/js/main.370ed49c.js",
+    "static/js/787.41d91280.chunk.js": "/temp-remote-react/static/js/787.41d91280.chunk.js",
+    "index.html": "/temp-remote-react/index.html",
+    "main.f5c04ee6.css.map": "/temp-remote-react/static/css/main.f5c04ee6.css.map",
+    "main.370ed49c.js.map": "/temp-remote-react/static/js/main.370ed49c.js.map",
+    "787.41d91280.chunk.js.map": "/temp-remote-react/static/js/787.41d91280.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5c04ee6.css",
+    "static/js/main.370ed49c.js"
+  ]
+}
